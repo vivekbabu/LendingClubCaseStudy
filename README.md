@@ -46,12 +46,13 @@ We use the following techniques
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Propotion of defaulted loans is higher for 60 months term
+- Loan defaults are high for grade G and interest rates above 20 percent
+- Charged off loans have higher median interest rates.
+- Most of the defaulted loans are in 4k-31k income category
+- Most of the defaulted loans are for intrest rates 13-17 percent
+- Most of the current loans with high income groups is for renewable energy, medical and home improvement
+- Maximum defaults were for loans given in month of Dec
 
 
 ## Technologies Used
@@ -59,19 +60,6 @@ We use the following techniques
 - Excel
 - DataFrames
 - Seaborn
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
 
 <!-- Optional -->
 <!-- ## License -->
